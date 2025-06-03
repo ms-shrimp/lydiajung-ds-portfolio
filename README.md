@@ -1,4 +1,4 @@
-# Lydia Jung's Portfolio
+# 👋 Welcome to Lydia Jung's Portfolio
 
 ---
 
@@ -33,7 +33,7 @@ This portfolio includes both technical projects and business-oriented presentati
 | [Revenue Model Critique](./revenue-model-deck/) | Slide Deck | Evaluated and critiqued a startup’s revenue model, highlighting assumptions, risks, and market constraints. | PowerPoint |
 | [ Project 1](#) | (Deck / Notebook) | Brief description of what the project focused on and what you contributed. | Tool/Library |
 
-> 🔍 Each folder includes either:
+> Each folder includes either:
 > - Code and notebooks (for technical projects), or  
 > - Presentation slides and documentation (for business/strategy-focused work)
 
