@@ -29,7 +29,7 @@ This portfolio includes both technical projects and business-oriented presentati
 
 | Project | Type | Summary | Tools |
 |--------|------|---------|-------|
-| [Air Quality & Emissions Analysis]([./data-102-air-quality-emissions/](https://github.com/ms-shrimp/lydiajung-ds-portfolio/tree/a626184f83812c82f37dc69fe036a784520d2058/Renewable%20Energy%20and%20Emissions%20in%20the%20U.S)) | Notebook, Report | Explored the relationship between renewable energy share and emission outcomes using EPA data, EDA, t-tests, and causal inference. | Python, Statistics, Slide Deck |
+| [Air Quality & Emissions Analysis](./Renewable Energy and Emissions in the U.S/) | Notebook, Report | Explored the relationship between renewable energy share and emission outcomes using EPA data, EDA, t-tests, and causal inference. | Python, Statistics, Slide Deck |
 | [Revenue Model Critique](./revenue-model-deck/) | Slide Deck | Evaluated and critiqued a startup’s revenue model, highlighting assumptions, risks, and market constraints. | PowerPoint |
 | [ Project 1](#) | (Deck / Notebook) | Brief description of what the project focused on and what you contributed. | Tool/Library |
 
