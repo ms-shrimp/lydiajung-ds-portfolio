@@ -30,8 +30,8 @@ This portfolio includes both technical projects and business-oriented presentati
 | Project | Type | Summary | Tools |
 |--------|------|---------|-------|
 | [Air Quality & Emissions Analysis](./Renewable-Energy-and-Emissions/) | Notebook, Report | Explored the relationship between renewable energy share and emission outcomes using EPA data, EDA, t-tests, and causal inference. | Python, Statistics, Slide Deck |
-| [Revenue Model Critique](./revenue-model-deck/) | Slide Deck | Evaluated and critiqued a startup’s revenue model, highlighting assumptions, risks, and market constraints. | PowerPoint |
-| [ Project 1](#) | (Deck / Notebook) | Brief description of what the project focused on and what you contributed. | Tool/Library |
+| [LWVO Member Demographics Analysis](./lwvo-demographics-analysis/) | Slide Deck | Analyzed survey and ZIP-code data to visualize member engagement and guide outreach strategy for the League of Women Voters of Oakland. | Python, Folium, Survey Design |
+| [Odys eVTOL Revenue Strategy](./eab-odys-revenue-model/) | Slide Deck | Modeled airline revenue increase by integrating Odys eVTOL vehicles across U.S. airports using geospatial data and flight economics. | Python, Business Analytics |
 
 > Each folder includes either:
 > - Code and notebooks (for technical projects), or  
