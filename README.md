@@ -1,4 +1,6 @@
-# 👋 Hi there!
+# Lydia Jung's Portfolio
+
+---
 
 I'm a recent graduate with a degree in **Data Science**, driven by a passion for uncovering insights that drive real-world decisions. My interests lie at the intersection of **data science** and **business strategy** using data not just to analyze, but to understand, communicate, and act.
 
@@ -39,7 +41,7 @@ This portfolio includes both technical projects and business-oriented presentati
 
 ## Let’s Connect
 
-- Email: seowoo29@berkeley.edu  
+- seowoo29@berkeley.edu  
 - [LinkedIn](www.linkedin.com/in/lydia-jung)  
 
 ---
