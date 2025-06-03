@@ -18,7 +18,7 @@ This portfolio includes both technical projects and business-oriented presentati
 
 ## Technical & Analytical Skills
 
-- **Languages**: Python, SQL, R  
+- **Languages**: Python, SQL, Javascript  
 - **Libraries**: Pandas, NumPy, scikit-learn, Matplotlib, Seaborn  
 - **Tools**: Jupyter, VS Code, Tableau, PowerPoint, Excel  
 - **Methods**: Statistical & Analytical Methods (EDA, Hypothesis Testing, Causal Inference, Regression)
