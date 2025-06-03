@@ -29,7 +29,7 @@ This portfolio includes both technical projects and business-oriented presentati
 
 | Project | Type | Summary | Tools |
 |--------|------|---------|-------|
-| [Air Quality & Emissions Analysis](./Renewable Energy and Emissions in the U.S/) | Notebook, Report | Explored the relationship between renewable energy share and emission outcomes using EPA data, EDA, t-tests, and causal inference. | Python, Statistics, Slide Deck |
+| [Air Quality & Emissions Analysis](./Renewable Energy and Emissions in the U.S/REE_Written_Report.pdf/) | Notebook, Report | Explored the relationship between renewable energy share and emission outcomes using EPA data, EDA, t-tests, and causal inference. | Python, Statistics, Slide Deck |
 | [Revenue Model Critique](./revenue-model-deck/) | Slide Deck | Evaluated and critiqued a startup’s revenue model, highlighting assumptions, risks, and market constraints. | PowerPoint |
 | [ Project 1](#) | (Deck / Notebook) | Brief description of what the project focused on and what you contributed. | Tool/Library |
 
